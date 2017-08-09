@@ -1,0 +1,3 @@
+configserver:
+        name: Healthy Workers Registry config server
+        status: Connected to Healthy Workers Registry config server, using https://github.com/JohnnyCosta/hw-configuration 
